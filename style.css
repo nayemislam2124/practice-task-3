@@ -236,6 +236,7 @@ footer{
     border-bottom:1px solid white;
     height:30px;
     margin-top:50px;
+    box-sizing:border-box;
 }
 .some-formation a{
     position:relative;
